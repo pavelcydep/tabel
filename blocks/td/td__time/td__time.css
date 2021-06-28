@@ -3,7 +3,7 @@
     display: flex;
     justify-content: space-between;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 576px) {
     .td__time{
      
       display: flex;
