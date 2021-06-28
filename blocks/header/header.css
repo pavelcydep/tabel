@@ -11,3 +11,12 @@ box-sizing: border-box;
 border-bottom:solid   rgb(224, 208, 208);
     border-top:solid rgb(224, 208, 208);
 }
+@media screen and (max-width: 400px) {
+    
+    .header{
+   
+  height: 82px; 
+  flex-direction: column;
+   }
+  
+}
