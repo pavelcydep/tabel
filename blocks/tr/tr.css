@@ -4,50 +4,19 @@
      margin-left: auto;
      margin-right: auto;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 576px) {
     .tr {
         display: none;
     }
    .tr{
-       width: 700px;
+       width: 400px;
     display: block;
     margin-bottom: 1rem;
     border-bottom: 2px solid #e8e9eb;
    }
   
 }
-@media screen and (max-width: 692px) {
-   
-   .tr{
-       width: 600px;
-   
-   }
-  
-}
-@media screen and (max-width: 636px) {
-   
-    .tr{
-        width: 550px;
-    
-    }
-   
- }
- @media screen and (max-width: 584px) {
-   
-    .tr{
-        width: 500px;
-    
-    }
-   
- }
- @media screen and (max-width: 536px) {
-   
-    .tr{
-        width: 400px;
-    
-    }
-   
- }
+
  @media screen and (max-width: 452px) {
    
     .tr{
